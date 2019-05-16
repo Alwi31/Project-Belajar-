@@ -1,0 +1,7 @@
+Rencana Belajar :
+
+-python
+-php
+-javascript
+-css
+-html
